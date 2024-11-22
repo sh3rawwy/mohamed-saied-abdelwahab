@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resume - Mohamed Saied Abdelwahab</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Mohamed Saied Abdelwahab</h1>
+        <p>Network Engineer</p>
+        <p>12 Sherif Al-Rifai ST, El-Marg, Cairo, Egypt</p>
+        <p><a href="mailto:mohamedvolck@gmail.com">mohamedvolck@gmail.com</a> | +20 1070650550</p>
+    </header>
+
+    <section>
+        <h2>Summary</h2>
+        <p>Proactive and detail-oriented Network Engineer with a Bachelor’s degree in Computer Science specializing in Network Systems. Skilled in network infrastructure management and system troubleshooting with hands-on experience from training at Elsewedy Electric and prominent Egyptian banks.</p>
+    </section>
+
+    <section>
+        <h2>Education</h2>
+        <p>Bachelor's in Computer Science and Information Systems (Networks Department) - June 2023</p>
+    </section>
+
+    <section>
+        <h2>Professional Experience</h2>
+        <ul>
+            <li>
+                <strong>Network Engineer Trainee - El Sewedy Electric</strong>
+                <p>Assisted with network configuration, equipment troubleshooting, and system maintenance.</p>
+            </li>
+            <li>
+                <strong>Network Engineer Trainee - Bank Misr</strong>
+                <p>Supported network monitoring and troubleshooting within banking systems to enhance connectivity and efficiency.</p>
+            </li>
+            <li>
+                <strong>Network Engineer Trainee - Banque Misr, National Bank of Egypt</strong>
+                <p>Conducted network monitoring and assisted in troubleshooting issues to support bank infrastructure.</p>
+            </li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Certificates</h2>
+        <ul>
+            <li>Banking Industry Introduction Program - Central Bank of Egypt</li>
+            <li>CCNA Certification - Cisco Certified Network Associate</li>
+            <li>English Grammar Course - Udemy</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Skills</h2>
+        <ul>
+            <li>Network Infrastructure Management</li>
+            <li>Troubleshooting and Diagnostics</li>
+            <li>Security Protocols Implementation</li>
+        </ul>
+    </section>
+</body>
+</html>
